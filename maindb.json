@@ -1,0 +1,21 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "bbb0ddff1b944b3cc68eaaeb7ac20099",
+    "loginToken": "16d53d16ca36002f492be388b741a11b",
+    "logs": [
+      {
+        "time": "2022-11-02T01:25:31.413Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"11.0.16\" 2. Please use Java 1.8.0"
+      },
+      {
+        "time": "2022-11-02T01:27:25.106Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": []
+}
